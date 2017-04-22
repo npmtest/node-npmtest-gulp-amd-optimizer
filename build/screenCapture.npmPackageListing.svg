@@ -1,0 +1,15 @@
+<svg height="190" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="190" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 04:17:07 +0000    13527 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 04:17:07 +0000     2652 bytes  index.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 04:17:07 +0000     2609 bytes  package.json</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 04:17:07 +0000     3376 bytes  readme.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 04:17:07 +0000       42 bytes  test/deps/dep1.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 04:17:07 +0000       77 bytes  test/deps/umd.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 04:17:07 +0000     1948 bytes  test/testBasic.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 04:17:07 +0000      655 bytes  test/testError.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 04:17:07 +0000     1290 bytes  test/testUmd.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 04:17:07 +0000      878 bytes  test/utils/configInputOutputDone.js</tspan>
+</text>
+</svg>
